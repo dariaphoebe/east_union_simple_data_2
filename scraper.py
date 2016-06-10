@@ -5,7 +5,7 @@ import scraperwiki
 schoolcodes = ['308']
 years = ["2010-2011","2009-2010"]
 # http://www.endomondo.com/profile/354106
-profile = '354106'
+profile = '5501861'
 
 
 import scraperwiki           
